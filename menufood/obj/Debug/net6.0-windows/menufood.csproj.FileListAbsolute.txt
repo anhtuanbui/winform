@@ -1,0 +1,17 @@
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\bin\Debug\net6.0-windows\menufood.exe
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\bin\Debug\net6.0-windows\menufood.deps.json
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\bin\Debug\net6.0-windows\menufood.runtimeconfig.json
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\bin\Debug\net6.0-windows\menufood.dll
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\bin\Debug\net6.0-windows\menufood.pdb
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\obj\Debug\net6.0-windows\menufood.csproj.AssemblyReference.cache
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\obj\Debug\net6.0-windows\menufood.Form1.resources
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\obj\Debug\net6.0-windows\menufood.csproj.GenerateResource.cache
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\obj\Debug\net6.0-windows\menufood.GeneratedMSBuildEditorConfig.editorconfig
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\obj\Debug\net6.0-windows\menufood.AssemblyInfoInputs.cache
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\obj\Debug\net6.0-windows\menufood.AssemblyInfo.cs
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\obj\Debug\net6.0-windows\menufood.csproj.CoreCompileInputs.cache
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\obj\Debug\net6.0-windows\menufood.dll
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\obj\Debug\net6.0-windows\refint\menufood.dll
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\obj\Debug\net6.0-windows\menufood.pdb
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\obj\Debug\net6.0-windows\menufood.genruntimeconfig.cache
+D:\File'sCUTY\Winform\Lap_Trinh\Lap_Trinh\menufood\obj\Debug\net6.0-windows\ref\menufood.dll
